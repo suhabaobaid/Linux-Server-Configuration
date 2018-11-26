@@ -199,4 +199,3 @@ Source: [PostgreSQL](https://www.digitalocean.com/community/tutorials/how-to-ins
 2. Open the browser and enter your public IP
 3. To check for error logs use: `sudo tail -20 /var/log/apache2/error.log`
 
-<b>Special Thanks to [Stueken](https://github.com/stueken/FSND-P5_Linux-Server-Configuration) for a helpful and an elaborate README</b>
